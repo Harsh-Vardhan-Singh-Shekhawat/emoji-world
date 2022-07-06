@@ -1,0 +1,20 @@
+h1{
+    font-size: 80px;
+    background-color:#2eab94;
+    width: fit-content;
+    padding:15px;
+    margin: auto;
+    margin-top: 60px; 
+    color: aliceblue;
+    border-radius: 10px;
+    text-shadow: 3px 2px #6d6060;
+    box-shadow: 4px 2px #1f7868;
+}
+.column{
+    background-color: #bbb;
+    margin: 10px;
+}
+.row_1{
+    margin: 20px;
+    justify-content: center;
+}
