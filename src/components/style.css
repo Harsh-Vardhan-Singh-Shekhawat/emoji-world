@@ -8,13 +8,31 @@ h1{
     color: aliceblue;
     border-radius: 10px;
     text-shadow: 3px 2px #6d6060;
-    box-shadow: 4px 2px #1f7868;
+    box-shadow: 4px 2px #328475;
 }
-.column{
-    background-color: #bbb;
+body{
+    background-color: #a1eded;
+}
+.emoji-card{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    background-color: #fff;
+
+}
+p{
+    font-size: 23px;
+    padding: 20px;
+}
+.symbol{
+    font-size: 4rem;
+    padding: 20px;
+}
+.Card{
+    display: flex;
+    width: 400px;
+    height: 400px;
     margin: 10px;
-}
-.row_1{
-    margin: 20px;
-    justify-content: center;
+    padding: 20px;
+    background-color: #fff;
 }
